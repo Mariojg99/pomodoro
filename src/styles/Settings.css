@@ -1,0 +1,11 @@
+.accordion {
+    margin-top: 20px;
+}
+
+.container-settings {
+    background-color: var(--dark-blue)!important;
+}
+
+.accordion-body {
+    padding: 10px;
+}
